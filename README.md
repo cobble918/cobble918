@@ -4,6 +4,8 @@
 - 📫 How to reach me bradleyren18@gmail.com
 - 😄 Pronouns: he/him
 
+- I am also a game developer, math contest attendee (medal in JMO) and hobbyist mathematician & programmer
+
 <!---
 bradleyren18/bradleyren18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
