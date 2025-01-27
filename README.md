@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths(algebra, geometry, number theory, counting & probability and precalculus) and programming(python, javascript, html & css, c#) and science(physics, rocket science, chemistry, QUANTUM PHYSICS).
 - 🌱 I’m currently learning a lot of stuff
 - 📫 How to reach me: bradleyren18@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/they/them
 
 - I am also a game developer, math contest attendee and hobbyist mathematician & programmer
 
