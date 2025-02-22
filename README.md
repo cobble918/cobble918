@@ -6,6 +6,8 @@
 
 - I am also a game developer, math contest attendee and hobbyist mathematician & programmer, and a (NOT) failure at life, unlike some of the idiots I know.
 
+- Fun Fact: You are an idiot \jk
+
 <!---
 bradleyren18/bradleyren18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
